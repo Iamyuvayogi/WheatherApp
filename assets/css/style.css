@@ -41,7 +41,7 @@ button {
 }
 main form input::placeholder {
   color: #ccc;
-  letter-spacing: 1px;
+  letter-spacing: 0px;
 }
 main form i {
   opacity: 0.7;
